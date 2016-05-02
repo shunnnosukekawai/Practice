@@ -4,3 +4,4 @@
 
 - 研修
 - sss
+- int main(void)
